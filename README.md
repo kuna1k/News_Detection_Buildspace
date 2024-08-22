@@ -1,2 +1,2 @@
 # News_Detection_Buildspace
-This notebook builds and trains a Logistic Regression model to classify news articles as "real" or "fake" using TF-IDF vectorization for text preprocessing. The model is evaluated for accuracy and saved for future use, with ongoing tuning to improve performance.
+This notebook implements a Logistic Regression classifier for distinguishing between real and fake news articles using TF-IDF vectorization with unigrams and bigrams. It involves text preprocessing with stemming and stopword removal, model tuning through GridSearchCV, and achieving high accuracy with continuous optimization to enhance performance.
